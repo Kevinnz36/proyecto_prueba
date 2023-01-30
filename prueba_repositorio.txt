@@ -1,2 +1,4 @@
 probando si el repositorio está funcionando
 esta es una modificación que se hizo al archivo
+esta modificación se hizo desde la rama B
+
